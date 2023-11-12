@@ -11,7 +11,8 @@ Hello, fellow coders! I'm Onyedika, a passionate Front-End Developer with a knac
 ## Tech Stack
 
 - HTML
-- CSS (including preprocessors like Sass)
+- CSS
+- Bootstrap
 - JavaScript (ES6+)
 - React
 
@@ -24,6 +25,7 @@ Hello, fellow coders! I'm Onyedika, a passionate Front-End Developer with a knac
 ## Let's Connect 🌟
 
 📫 Reach out if you share the passion for front-end development or just want to chat about the latest tech trends.
-Connect with me on https://www.linkedin.com/in/onyedika-ejimnkonye-033b99244/ or https://wa.me/+2347062487335.
+Connect with me on 
+whatapp: https://wa.me/+2347062487335.
 
 Happy coding! 🚀
