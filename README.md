@@ -1,4 +1,4 @@
-# Front-End Developer Extraordinaire 👨‍💻
+# Front-End Developer  👨‍💻
 
 Hello, fellow coders! I'm Onyedika, a passionate Front-End Developer with a knack for crafting beautiful and functional user interfaces. My journey in the coding realm revolves around HTML, CSS, JavaScript, and the fantastic world of React.
 
@@ -13,7 +13,7 @@ Hello, fellow coders! I'm Onyedika, a passionate Front-End Developer with a knac
 - HTML
 - CSS
 - Bootstrap
-- JavaScript (ES6+)
+- JavaScript 
 - React
 
 ## What I Bring to the Table
