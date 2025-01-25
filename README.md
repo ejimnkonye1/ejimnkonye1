@@ -1,11 +1,11 @@
 <p align="center">
   <h1 align='center'>Hi there!👋🏾 I'm Ejimnkonye⚡</h1> 
-  <p align="center"> I am a Software Developer focused on Frontend(JavaScript ,React, tailwindCss,Redux) and Backend (Python)</p>
+  <p align="center"> I am a Software Developer focused on Frontend(JavaScript , React, tailwindCss, Redux) and Backend (Python)</p>
   <p align='center'>Currently working 👨‍🍳 on myself, becoming a better programmer! One line at a time!</p>
   <p align="center">
   <a href="https://github.com/ejimnkonye1"><img src="https://komarev.com/ghpvc/?username=ejimnkonye1&style=for-the-badge&abbreviated=true&color=blue" alt="Profile views"/>
   </a>
-     <a href="https://wakatime.com/@11f29c58-da34-47f8-b4f4-320d060467f8"><img src="https://wakatime.com/badge/user/11f29c58-da34-47f8-b4f4-320d060467f8.svg" alt="Total time coded since Sep 20 2022" /></a>
+     <a href="https://wakatime.com/@Billiejrn"><img src="https://wakatime.com/badge/user/11f29c58-da34-47f8-b4f4-320d060467f8.svg" alt="Total time coded since Sep 23 2023" /></a>
 </p>
 </p>
 
