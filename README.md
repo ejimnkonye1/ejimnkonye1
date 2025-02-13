@@ -1,6 +1,6 @@
 <p align="center">
   <h1 align='center'>Hi there!👋🏾 I'm Ejimnkonye⚡</h1> 
-  <p align="center"> I am a Software Developer focused on Frontend(JavaScript , React, tailwindCss, Redux) and Backend (Python)</p>
+  <p align="center"> I am a Software Developer focused on Frontend(JavaScript , React, tailwindCss, Remix, Typescript, Redux) and Backend (Python,NodeJs)</p>
   <p align='center'>Currently working 👨‍🍳 on myself, becoming a better programmer! One line at a time!</p>
   <p align="center">
   <a href="https://github.com/ejimnkonye1"><img src="https://komarev.com/ghpvc/?username=ejimnkonye1&style=for-the-badge&abbreviated=true&color=blue" alt="Profile views"/>
