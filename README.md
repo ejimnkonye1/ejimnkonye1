@@ -1,7 +1,7 @@
 <p align="center">
   <h1 align='center'>Hi there!👋🏾 I'm Ejimnkonye onyedika ⚡</h1> 
   <p align="center"> I am a Software Developer focused on Frontend(JavaScript , React, tailwindCss, Remix, Typescript, Redux, Nextjs) and Backend (Python,NodeJs)</p>
-  <p align='center'>Currently working 👨‍🍳 on myself on becoming a better developer One line at a time!</p>
+  <p align='center'> When I'm not coding, you can find me learning new technologies and improving my skills, one line at a time!</p>
   <p align="center">
   <a href="https://github.com/ejimnkonye1"><img src="https://komarev.com/ghpvc/?username=ejimnkonye1&style=for-the-badge&abbreviated=true&color=blue" alt="Profile views"/>
   </a>
